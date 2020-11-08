@@ -22,6 +22,20 @@
                     "imageHref": "https://i.imgur.com/R8GMYxz.png"
                 },
                 {
+                    "name": "YouTube",
+                    "positionSU": {
+                        "x": 40,
+                        "y": 35,
+                        "z": 0
+                    },
+                    "widthSU": 1,
+                    "heightSU": 1,
+                    "hexColor": "#9b34eb",
+                    "textHexColor": "#000000",
+                    "href": "https://www.twitch.tv/blackbeatsbar",
+                    "imageHref": "https://cdn0.iconfinder.com/data/icons/social-network-7/50/16-512.png"
+                },
+                {
                     "name": "Burning Man",
                     "positionSU": {
                         "x": 20,
